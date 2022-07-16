@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    margin: 20px;
+    background-image: url(./img/ty.png);
+    color: white;
+}
+p{
+    padding-top: -50px;
+}
+h1{
+    font-style: italic;
+    font-size: small;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkgreen;
+}
+.h11{
+    font-size: large;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
